@@ -3,9 +3,9 @@
   "short_name": "iViewer",
   "description": "Visualizador de radiografias com ferramentas de IA, desenvolvido por Dr. Paulo de Tarso.",
   "start_url": ".",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#02222E",
-  "theme_color": "#1a66ad",
+  "theme_color": "#02222E",
   "orientation": "landscape-primary",
   "icons": [
     {
